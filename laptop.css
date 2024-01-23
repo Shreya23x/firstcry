@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.logo{
+    background-image: url(./logo.png);
+    width:200px;
+    height: 58px;
+    margin-left: 50px;
+    margin-top: 25px;
+    background-repeat: no-repeat;
+}
+
+.navbar{
+    background-color: #ffd91c;
+    width: 100%;
+    height: 50px;
+}
+.topnav{
+    margin-left: 69px;
+}
+.tpnv{
+    color: #575757;
+    padding-left: 70px;
+    margin-top: 10px;
+}
+.tpnv a{
+text-decoration: none;
+}
+.bg1{
+    background-image: url(./bg1.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    margin-left: 244px;
+}
+.hd1{
+    font-size: 34px;
+    font-weight: 400;
+    margin: 10px;
+}
+.dabba{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 20px;
+}
+.dabba1{
+    background-image: url(./1..jpg);
+    height: 400px;
+    background-size: cover;
+    margin-left: 20px;
+}
+.dabba2{
+    background-image: url(./2..jpg);
+    height: 400px;
+    background-size: cover;
+}
+.dabba3{
+    background-image: url(./3..jpg);
+    height: 400px;
+    background-size: cover;
+    margin-right: 20px;
+}
+.dabba4{
+    margin-top: 20px;
+    background-image: url(./4..jpg);
+    height: 400px;
+    background-size: cover;
+    margin-left: 20px;
+}
+.dabba5{
+    margin-top: 20px;
+    background-image: url(./5..jpg);
+    height: 400px;
+    background-size: cover;
+}
+.dabba6{
+    margin-top: 20px;
+    background-image: url(./1..jpg);
+    height: 400px;
+    background-size: cover;
+    margin-right: 20px;
+}
+.p1{
+    margin-top: 408px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.btn1{
+   margin-top: 131px;
+   background-color: white; 
+   width: 250px;
+   height:70px;
+   font-size: 17px;
+}
+.btn1:hover{
+   margin-top: 131px;
+   background-color: rgb(79, 78, 78); 
+   color: white;
+   width: 250px;
+   height:70px;
+   font-size: 17px;
+}
+.last{
+    background-color: #d9f3f4;
+    margin-top: -282px;
+}
+.tct{
+    width: 85%;
+    margin-left: 100px;
+}
+.img1{
+    background-image: url(./ft..png);
+    background-repeat: no-repeat;
+    background-color: #d9f3f4;
+    width: 80%;
+    height: 360px;
+    margin-left: 80px;
+}
+.ssv{
+    background-image: url(./bg3.jpg);
+    height: 339px;
+    width:100%;
+    background-size: cover;
+
+}
+.bd{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.db1 {
+    background-image: url(./a1.jpg);
+    background-size: cover;
+    width:100%;
+    height:271px
+}
+.db2 {
+    background-image: url(./a2.jpg);
+    background-size: cover;
+    width:100%;
+    height:271px
+}
+.db{
+    display: flex;
+
+}
+.bd1{
+    background-image: url(./b1.jpg);
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+
+}
+.bd2{
+    background-image: url(./b2.jpg);
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+  
+}
+.bd3{
+    background-image: url(./b3.jpg);
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}
+.bd4{
+    background-image: url(./b4.jpg);
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}
+.bd5{
+    background-image: url(./b5.jpg);
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+    
+ 
+}
+.bd6{
+    background-image: url(./b6.jpg);
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+
+}
+.dibbu{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+.dibbu1{
+    background-image: url(./f1.jpg);
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+.dibbu2{
+    background-image: url(./f2.jpg);
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+.dibbu3{
+    background-image: url(./f11.jpg);
+    background-size: cover;
+    height: 100px;
+    width: 100%;
+}
+.dibbu4{
+    background-image: url(./f22.jpg);
+    background-size: cover;
+    height: 100px;
+    width: 100%;
+}
+
+
